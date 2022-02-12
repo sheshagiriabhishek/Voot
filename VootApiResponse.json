@@ -1,0 +1,210 @@
+{
+  "assets": [
+    {
+      "railName": "Carousels",
+      "uiSpec": {
+        "trayLayout": "linearTray",
+        "cardHeight": "9px",
+        "cardWidth": "16px",
+        "cardAspectRatio": "9:16",
+        "cornerRadius": "360dp",
+        "textAlignment": "left",
+        "titleSection": {
+          "titlePosition": "left",
+          "subTitleSection": {
+            "subTitlePosition": "left",
+            "seasonPosition": "left",
+            "episodePosition": "left"
+          }
+        }
+      },
+      "rail_card_items": [
+        {
+          "isSelect":true,
+          "imgUrl": "https://i.postimg.cc/F17qLYMZ/Carousel-Card.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextpageapi": "https://ghjkkf",
+          "mediaType": "video",
+          "contentInfo": {
+            "title": "text",
+            "description": "text",
+            "season": "text",
+            "episode": "text",
+            "subtitle": "text"
+          }
+        },
+        {
+          "isSelect": false,
+          "imgUrl": "https://i.postimg.cc/F17qLYMZ/Carousel-Card.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextpageapi": "https://ghjkkf",
+          "mediaType": "video",
+          "contentInfo": {
+            "title": "text",
+            "description": "text",
+            "season": "text",
+            "episode": "text",
+            "subtitle": "text"
+          }
+        }
+      ]
+    },
+    {
+      "railName": "Continue_watching",
+      "uiSpec": {
+        "trayLayout": "linearTray",
+        "progressBar": 90,
+        "cardHeight": "9px",
+        "cardWidth": "16px",
+        "cornerRadius": "360dp",
+        "cardAspectRatio": "9:16",
+        "titleSection": {
+          "titlePosition": "left",
+          "subTitlePosition": "left"
+        },
+        "trayIcon": "https://rtyuu",
+        "trayButton": {
+          "ButtonText": "All",
+          "fontSize": "10px",
+          "fontStyle": "Lora",
+          "buttonLink:": "https://i.postimg.cc/gwmQXNpX/All-Button.png",
+          "ButtonBgColor": "#800080"
+        }
+      },
+      "railCardItems": [
+        {
+          "isPremium": true,
+          "progressPercentage": 90,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": "20dp"
+          },
+          "cardId": "01",
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/rR0PXH1b/Continue-Watching-Card.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "menuIcon": "https://i.postimg.cc/RFvX53Z0/MenuIcon.png",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": "10dp"
+            },
+            "description": "text",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "isPremium": true,
+          "progressPercentage": 90,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": "20dp"
+          },
+          "cardId": "02",
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/rR0PXH1b/Continue-Watching-Card.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "menuIcon": "https://i.postimg.cc/RFvX53Z0/MenuIcon.pn",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": "10dp"
+            },
+            "description": "text",
+            "season": "text",
+            "episode": "text"
+          }
+        }
+        
+      ]
+    },
+    {
+      "railName": "latest_episode",
+      "uiSpec": {
+        "trayLayout": "linearTray",
+        "cardHeight": "9px",
+        "cardWidth": "16px",
+        "cornerRadius": "360dp",
+        "cardAspectRatio": "9:16",
+        "titlePosition": "left",
+        "subTitlePosition": "left",
+        "trayButton": {
+          "ButtonText": "All",
+          "fontSize": "10dp",
+          "fontStyle": "Lora",
+          "buttonLink:": "https://i.postimg.cc/gwmQXNpX/All-Button.png",
+          "ButtonBgColor": "#800080"
+        }
+      },
+      "rail_card_items": [
+        {
+          "cardId": "01",
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/PpFR7HwY/Latest-Episodes-Card.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "title": "text",
+          "description": "text",
+          "mediaType": "video",
+          "contentInfo": {
+            "buttonSize": "20dp",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "cardId": "02",
+          
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/PpFR7HwY/Latest-Episodes-Card.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "title": "text",
+          "description": "text",
+          "mediaType": "video",
+          "contentInfo": {
+            "buttonIcn": {
+              "buttonSize": "20dp"
+            },
+            "season": "text",
+            "episode": "text"
+          }
+        }
+      ]
+    },
+    {
+      "railName": "banner_card",
+      "uiSpec": {
+        "cardHeight": "20px",
+        "cardWidth": "10px",
+        "cornerRadius": "360dp",
+        "cardAspectRatio": "2:1",
+        "titlePosition": "center",
+        "subTitlePosition": "center",
+        "Button": {
+          "ButtonText": "PLAY",
+          "fontSize": "15dp",
+          "fontStyle": "Lora",
+          "buttonLink:": "https://i.postimg.cc/d1cYcjbK/Play-Button.pngf",
+          "ButtonBgColor": "#800080"
+        },
+        "imgUrl": "https://i.postimg.cc/MMGLtHvz/Banner-Card.png",
+        "bgImg": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+        "closeIcon": "icn_size",
+        "mediaType": "video"
+      }
+      
+    }
+  ],
+  "status": {
+    "code": 200,
+    "message": "OK"
+  }
+}

@@ -24,7 +24,7 @@
           "imgUrl": "https://i.postimg.cc/F17qLYMZ/Carousel-Card.png",
           "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
           "buttonIcn": "",
-          "nextpageapi": "https://ghjkkf",
+          "nextPageAPI": "https://ghjkkf",
           "mediaType": "video",
           "contentInfo": {
             "title": "text",
@@ -39,7 +39,7 @@
           "imgUrl": "https://i.postimg.cc/F17qLYMZ/Carousel-Card.png",
           "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
           "buttonIcn": "",
-          "nextpageapi": "https://ghjkkf",
+          "nextPageAPI": "https://ghjkkf",
           "mediaType": "video",
           "contentInfo": {
             "title": "text",
@@ -66,11 +66,11 @@
         },
         "trayIcon": "https://rtyuu",
         "trayButton": {
-          "ButtonText": "All",
+          "buttonText": "All",
           "fontSize": "10px",
           "fontStyle": "Lora",
           "buttonLink:": "https://i.postimg.cc/gwmQXNpX/All-Button.png",
-          "ButtonBgColor": "#800080"
+          "buttonBgColor": "#800080"
         }
       },
       "railCardItems": [
@@ -136,11 +136,11 @@
         "titlePosition": "left",
         "subTitlePosition": "left",
         "trayButton": {
-          "ButtonText": "All",
+          "buttonText": "All",
           "fontSize": "10dp",
           "fontStyle": "Lora",
           "buttonLink:": "https://i.postimg.cc/gwmQXNpX/All-Button.png",
-          "ButtonBgColor": "#800080"
+          "buttonBgColor": "#800080"
         }
       },
       "railCardItems": [
@@ -187,12 +187,12 @@
         "cardAspectRatio": "2:1",
         "titlePosition": "center",
         "subTitlePosition": "center",
-        "Button": {
-          "ButtonText": "PLAY",
+        "button": {
+          "buttonText": "PLAY",
           "fontSize": "15dp",
           "fontStyle": "Lora",
           "buttonLink:": "https://i.postimg.cc/d1cYcjbK/Play-Button.pngf",
-          "ButtonBgColor": "#800080"
+          "buttonBgColor": "#800080"
         },
         "imgUrl": "https://i.postimg.cc/MMGLtHvz/Banner-Card.png",
         "bgImg": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",

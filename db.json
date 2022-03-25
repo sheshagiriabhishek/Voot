@@ -4,8 +4,8 @@
       "railName": "Carousels",
       "uiSpec": {
         "trayLayout": "linearTray",
-        "cardHeight": 9,
-        "cardWidth": 16,
+        "cardHeight": 190,
+        "cardWidth": 230,
         "cardAspectRatio": "9:16",
         "cornerRadius": 360,
         "textAlignment": "left",
@@ -101,8 +101,8 @@
       "uiSpec": {
         "trayLayout": "linearTray",
         "progressBar": 90,
-        "cardHeight": 9,
-        "cardWidth": 16,
+        "cardHeight": 90,
+        "cardWidth": 150,
         "cornerRadius": 360,
         "cardAspectRatio": "9:16",
         "titleSection": {
@@ -245,8 +245,8 @@
       "railName": "latest_episode",
       "uiSpec": {
         "trayLayout": "linearTray",
-        "cardHeight": 9,
-        "cardWidth": 16,
+        "cardHeight": 90,
+        "cardWidth": 150,
         "cornerRadius": 360,
         "cardAspectRatio": "9:16",
         "titlePosition": "left",
@@ -340,8 +340,8 @@
     {
       "railName": "banner_card",
       "uiSpec": {
-        "cardHeight": 20,
-        "cardWidth": 10,
+        "cardHeight": 90,
+        "cardWidth": 150,
         "cornerRadius": 360,
         "cardAspectRatio": "2:1",
         "titlePosition": "center",

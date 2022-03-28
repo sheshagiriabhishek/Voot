@@ -23,7 +23,7 @@
       },
       "railCardItems": [
         { 
-          "isPremium": true,
+          "isPremium": false,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 30
@@ -71,7 +71,7 @@
           }
         },
         {
-          "isPremium": true,
+          "isPremium": false,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 30
@@ -119,7 +119,7 @@
           }
         },
         {
-          "isPremium": true,
+          "isPremium": false,
           "premiumIcn": {
             "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
             "icnSize": 30

@@ -1,0 +1,487 @@
+{
+  "assets": [
+    {
+      "railName": "Carousels",
+      "uiSpec": {
+        "trayLayout": "linearTray",
+        "cardHeight": 400,
+        "cardWidth": 600,
+        "cardAspectRatio": "9:16",
+        "cornerRadius": 360,
+        "titleSection": {
+          "titlePosition": "left",
+          "titleFontSize": 18,
+          "subTitleSection": {
+            "subTitlePosition": "left",
+            "subtitleFontsize": 15,
+            "seasonPosition": "left",
+            "seasonFontsize": 15,
+            "episodePosition": "left",
+            "episodeFontsize": 15
+          }
+        }
+      },
+      "railCardItems": [
+        { 
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 30
+          },
+          "isSelect": true,
+          "imgUrl": "https://i.postimg.cc/cLWQqMwv/Picture001.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextPageAPI": "https://ghjkkf",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 30
+            },
+            "title": "Apaharan",
+            "description": "NA",
+            "season": "02",
+            "episode": "01",
+            "subtitle": "Rudra in Demand!"
+          }
+        },
+        {
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 30
+          },
+          "isSelect": false,
+          "imgUrl": "https://i.postimg.cc/3yxn92hZ/Picture002.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextPageAPI": "https://ghjkkf",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 30
+            },
+            "title": "The Khatra Khatra show",
+            "description": "NA",
+            "season": "01",
+            "episode": "05",
+            "subtitle": "Munmun on a mission"
+          }
+        },
+        {
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 30
+          },
+          "isSelect": true,
+          "imgUrl": "https://i.postimg.cc/ft6CwF9H/Picture003.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextPageAPI": "https://ghjkkf",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 30
+            },
+            "title": "Spy Bahu",
+            "description": "NA",
+            "season": "Colors",
+            "episode": "Hindi",
+            "subtitle": "Drama"
+          }
+        },
+        {
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 30
+          },
+          "isSelect": false,
+          "imgUrl": "https://i.postimg.cc/wytFYH7y/Picture004.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextPageAPI": "https://ghjkkf",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 30
+            },
+            "title": "Badava Rascal",
+            "description": "NA",
+            "season": "NA",
+            "episode": "Kannada",
+            "subtitle": "Comedy"
+          }
+        },
+        {
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 30
+          },
+          "isSelect": true,
+          "imgUrl": "https://i.postimg.cc/5HKprjNW/Picture005.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "buttonIcn": "",
+          "nextPageAPI": "https://ghjkkf",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 30
+            },
+            "title": "Ramachari",
+            "description": "NA",
+            "season": "Colors",
+            "episode": "Kannada",
+            "subtitle": "Romance"
+          }
+        }
+      ]
+    },
+    {
+      "railName": "Continue_watching",
+      "uiSpec": {
+        "trayLayout": "linearTray",
+        "progressBar": 90,
+        "cardHeight": 300,
+        "cardWidth": 500,
+        "cornerRadius": 360,
+        "cardAspectRatio": "9:16",
+        "titleSection": {
+          "titlePosition": "left",
+          "titleFontSize": 18,
+          "subTitleSection": {
+            "subTitlePosition": "left",
+            "subtitleFontsize": 15,
+            "seasonPosition": "left",
+            "seasonFontsize": 15,
+            "episodePosition": "left",
+            "episodeFontsize": 15
+          }
+        },
+        "trayIcon": "https://rtyuu",
+        "trayButton": {
+          "buttonText": "All",
+          "fontSize": 10,
+          "fontStyle": "Lora",
+          "buttonLink:": "https://i.postimg.cc/gwmQXNpX/All-Button.png",
+          "buttonBgColor": "#800080"
+        }
+      },
+      "railCardItems": [
+        {
+          "isPremium": true,
+          "progressPercentage": 90,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "cardId": "01",
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/MML56YHp/Picture006.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "menuIcon": "https://i.postimg.cc/RFvX53Z0/MenuIcon.png",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "description": "text",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "isPremium": false,
+          "progressPercentage": 90,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "cardId": "02",
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/LgZTnZgB/Picture007.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "menuIcon": "https://i.postimg.cc/RFvX53Z0/MenuIcon.pn",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "description": "text",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "isPremium": true,
+          "progressPercentage": 90,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "cardId": "03",
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/7bp9jXjB/Picture008.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "menuIcon": "https://i.postimg.cc/RFvX53Z0/MenuIcon.png",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "description": "text",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "isPremium": false,
+          "progressPercentage": 90,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "cardId": "04",
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/crwhWwSd/Picture009.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "menuIcon": "https://i.postimg.cc/RFvX53Z0/MenuIcon.pn",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "description": "text",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "isPremium": true,
+          "progressPercentage": 90,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "cardId": "05",
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/XXZx2t1G/Picture010.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "menuIcon": "https://i.postimg.cc/RFvX53Z0/MenuIcon.pn",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "description": "text",
+            "season": "text",
+            "episode": "text"
+          }
+        }
+      ]
+    },
+    {
+      "railName": "latest_episode",
+      "uiSpec": {
+        "trayLayout": "linearTray",
+        "cardHeight": 300,
+        "cardWidth": 500,
+        "cornerRadius": 360,
+        "cardAspectRatio": "9:16",
+        "titleSection": {
+          "titlePosition": "left",
+          "titleFontSize": 18,
+          "subTitleSection": {
+            "subTitlePosition": "left",
+            "subtitleFontsize": 15,
+            "seasonPosition": "left",
+            "seasonFontsize": 15,
+            "episodePosition": "left",
+            "episodeFontsize": 15
+          }
+        },
+        "trayButton": {
+          "buttonText": "All",
+          "fontSize": 10,
+          "fontStyle": "Lora",
+          "buttonLink:": "https://i.postimg.cc/gwmQXNpX/All-Button.png",
+          "buttonBgColor": "#800080"
+        }
+      },
+      "railCardItems": [
+        {
+          "cardId": "01",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/KRx0YDyc/Picture11.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "Fanaa",
+            "description": "Ishq Ka Marjava",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "cardId": "02",
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/z3nd5P6P/Picture12.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "Halo",
+            "description": "Action",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "cardId": "03",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/gLq4Dn3P/Picture13.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The Circus",
+            "description": "Action",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "cardId": "04",
+          "isPremium": false,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/3yxn92hZ/Picture002.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "The Khatra Khatra Show",
+            "description": "text",
+            "season": "text",
+            "episode": "text"
+          }
+        },
+        {
+          "cardId": "05",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
+          "duration": "1600",
+          "imgUrl": "https://i.postimg.cc/ft6CwF9H/Picture003.png",
+          "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "nextPageAPI": "https://qwerty",
+          "mediaType": "video",
+          "contentInfo": {
+            "playButtonIcn": {
+              "icnImgUrl": "https://i.postimg.cc/Rh6tj9KF/PlayIcon.jpg",
+              "icnSize": 10
+            },
+            "title": "Spy Bahu",
+            "description": "text",
+            "season": "text",
+            "episode": "text"
+          }
+        }
+      ]
+    },
+    {
+      "railName": "banner_card",
+      "uiSpec": {
+        "cardHeight": 200,
+        "cardWidth": 300,
+        "cornerRadius": 360,
+        "cardAspectRatio": "2:1",
+        "titleSection": {
+          "titlePosition": "left",
+          "titleFontSize": 18,
+          "subTitleSection": {
+            "subTitlePosition": "left",
+            "subtitleFontsize": 15,
+            "seasonPosition": "left",
+            "seasonFontsize": 15,
+            "episodePosition": "left",
+            "episodeFontsize": 15
+          }
+        },
+        "button": {
+          "buttonText": "PLAY",
+          "fontSize": 15,
+          "fontStyle": "Lora",
+          "buttonLink:": "https://i.postimg.cc/d1cYcjbK/Play-Button.pngf",
+          "buttonBgColor": "#800080"
+        }
+      },
+      "railCardItems": [
+        {
+          "imgUrl": "https://i.postimg.cc/MMGLtHvz/Banner-Card.png",
+          "bgImg": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
+          "closeIconSize": 10,
+          "mediaType": "video"
+        }
+      ]
+    }
+  ],
+  "status": {
+    "code": 200,
+    "message": "OK"
+  }
+}

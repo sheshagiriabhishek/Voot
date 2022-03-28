@@ -328,6 +328,11 @@
       "railCardItems": [
         {
           "cardId": "01",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
           "duration": "1600",
           "imgUrl": "https://i.postimg.cc/KRx0YDyc/Picture11.png",
           "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
@@ -346,6 +351,11 @@
         },
         {
           "cardId": "02",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
           "duration": "1600",
           "imgUrl": "https://i.postimg.cc/z3nd5P6P/Picture12.png",
           "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
@@ -364,6 +374,11 @@
         },
         {
           "cardId": "03",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
           "duration": "1600",
           "imgUrl": "https://i.postimg.cc/gLq4Dn3P/Picture13.png",
           "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
@@ -382,6 +397,11 @@
         },
         {
           "cardId": "04",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
           "duration": "1600",
           "imgUrl": "https://i.postimg.cc/3yxn92hZ/Picture002.png",
           "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
@@ -400,6 +420,11 @@
         },
         {
           "cardId": "05",
+          "isPremium": true,
+          "premiumIcn": {
+            "icnUrl": "https://i.postimg.cc/tRKnYKF3/premium-Icon-Image.png",
+            "icnSize": 20
+          },
           "duration": "1600",
           "imgUrl": "https://i.postimg.cc/ft6CwF9H/Picture003.png",
           "bgImage": "https://i.postimg.cc/23RcV0xz/Voot-Background-Image.webp",
